@@ -17,27 +17,24 @@ mongod
 4) запуск скаффолдинга
 ```
 yo angular-fullstack fullstack
-```	
-4.1) grunt --force
+	
+grunt --force
 
-4.2) grunt serve
+grunt serve
 
-4.3) grunt serve:dist
-
-5) 	yo angular-fullstack:endpoint book
-
+grunt serve:dist
+```
+5) Новый endpoint
+```
+yo angular-fullstack:endpoint book
+```
 6)	yo angular-fullstack:route book
 ```
 7) Установка Ruby и sass
-```
-	gem install sass
-	
-8) 	grunt sass
-
-9)	git clone https://github.com/omidreyhani/fullstack.git
-
+```	gem install sass
+ 	grunt sass
+	git clone https://github.com/omidreyhani/fullstack.git
 	npm intall
-	
 	bower install
 ```	
 	
