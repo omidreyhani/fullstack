@@ -34,4 +34,8 @@ yo angular-fullstack fullstack
 	
 8) 	grunt sass
 
-	git clone https://github.com/omidreyhani/fullstack.git
+9)	git clone https://github.com/omidreyhani/fullstack.git
+
+	npm intall
+	
+	
