@@ -27,9 +27,9 @@ grunt serve:dist
 5) Новый endpoint
 ```
 yo angular-fullstack:endpoint book
+yo angular-fullstack:route book
 ```
-6)	yo angular-fullstack:route book
-```
+
 7) Установка Ruby и sass
 ```	gem install sass
  	grunt sass
