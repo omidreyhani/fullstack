@@ -31,6 +31,7 @@ yo angular-fullstack:route book
 ```
 
 7) Установка Ruby и sass
+
 ```	gem install sass
  	grunt sass
 	git clone https://github.com/omidreyhani/fullstack.git
