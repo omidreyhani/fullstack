@@ -38,4 +38,6 @@ yo angular-fullstack fullstack
 
 	npm intall
 	
+	bower install
+	
 	
